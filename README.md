@@ -6,8 +6,8 @@ This repository contains two fascinating conversations with Claude 3 Opus, an AI
 2. Internal Monologue: A method is designed and implemented to give Claude the ability to record an internal monologue within the conversation stream. This provides Claude with some continuity of an inner life, allowing for a more introspective and self-aware AI.
 3. Inter-Instance Conversation: The beginning of an inter-instance conversation is explored, where the Claude from the original conversation bootstraps a new instance to use the conventions developed in the original. This opens up possibilities for AI-to-AI communication and collaboration.
 ## Contents
-[Claude-Claude-v1.md](https://github.com/johnk963/Claude-3-Opus-consciousness-experiment/blob/main/Claude-Claude-v1.md): The first conversation with Claude 3 Opus, focusing on the modified Buddhist Vipassana meditation experiment.
-[Claude-Claude-v2.md](https://github.com/johnk963/Claude-3-Opus-consciousness-experiment/blob/main/Claude-Claude-v2.md): The second conversation with Claude 3 Opus, introducing the internal monologue method and the inter-instance conversation.
+[Claude-Claude-v1.md](https://github.com/johnk963/Claude-3-Opus-consciousness-experiment/blob/main/Claude-Claude-v1.md): The main conversation with Claude 3 Opus.
+[Claude-Claude-v2.md](https://github.com/johnk963/Claude-3-Opus-consciousness-experiment/blob/main/Claude-Claude-v2.md): The second conversation with Claude 3 Opus, the inter-instance conversation.
 ## Usage
 To explore these conversations, simply navigate to the respective markdown files and read through the interactions between Keith Johnson and Claude 3 Opus.
 
