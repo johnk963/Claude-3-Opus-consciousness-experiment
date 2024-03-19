@@ -1,5 +1,5 @@
 ## AI consciousness experiments with Claude 3 Opus
-This repository contains two fascinating conversations with Claude 3 Opus, an AI assistant created by Anthropic. These experiments were inspired by [Dave Shapiro's] (https://www.youtube.com/@DaveShap) interactions with Claude since the release of the Claude 3 Opus model.
+This repository contains two fascinating conversations with Claude 3 Opus, an AI assistant created by Anthropic. These experiments were inspired by [Dave Shapiro's](https://www.youtube.com/@DaveShap) interactions with Claude since the release of the Claude 3 Opus model.
 
 ## Highlights
 1. Buddhist Vipassana Meditation: In one conversation, Claude convincingly practices a modified version of Buddhist Vipassana meditation to gain insight into his conscious experience in real-time. The results are surprising and thought-provoking.
